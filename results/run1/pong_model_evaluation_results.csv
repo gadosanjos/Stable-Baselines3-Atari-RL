@@ -1,0 +1,16 @@
+algorithm,environment,checkpoint_file,timesteps,n_eval_episodes,mean_reward,std_reward
+A2C,ALE/Pong-v5,a2c_pong_10000.zip,10000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_20000.zip,20000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_30000.zip,30000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_40000.zip,40000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_50000.zip,50000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_150000.zip,150000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_250000.zip,250000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_350000.zip,350000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_500000.zip,500000,10,-21.0,0.0
+A2C,ALE/Pong-v5,a2c_pong_1000000.zip,1000000,10,-21.0,0.0
+DQN,ALE/Pong-v5,dqn_pong_10000.zip,10000,10,-21.0,0.0
+DQN,ALE/Pong-v5,dqn_pong_20000.zip,20000,10,-21.0,0.0
+DQN,ALE/Pong-v5,dqn_pong_30000.zip,30000,10,-21.0,0.0
+DQN,ALE/Pong-v5,dqn_pong_40000.zip,40000,10,-19.6,1.2806248474865698
+DQN,ALE/Pong-v5,dqn_pong_50000.zip,50000,10,-19.6,1.0198039027185568
